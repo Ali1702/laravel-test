@@ -1,2 +1,2 @@
 # laravel-test
-A test tast for a software engineering class
+A test task for a software engineering class
